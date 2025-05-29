@@ -4,3 +4,5 @@
 3.Use pairplot/correlation matrix for feature relationships.
 4.Identify patterns, trends, or anomalies in the data.
 5.Make basic feature-level inferences from visuals.
+#  Objective: Understand data using statistics and visualizations.
+#  Tools: Pandas, Matplotlib, Seaborn, Plotly
